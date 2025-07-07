@@ -1,4 +1,4 @@
-# 💧 Drops Effect Animation
+#  Drops Effect Animation
 
 A creative and visually engaging JavaScript animation that dynamically spawns colorful, fading droplets on the screen using DOM manipulation and CSS keyframes.
 
